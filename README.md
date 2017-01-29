@@ -1,2 +1,5 @@
 # hello-world
-Repository created for the purposes of learning to create and manage repositories
+Hello, world
+
+My name is Sarah and I am learning Python
+I like coffee and kittens and ice hockey
